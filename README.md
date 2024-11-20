@@ -3,7 +3,7 @@
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
-| Name here   | ELC/PGR | Sub-div |
+| Dharon Yusuf Fuadi   | ELC | Electrical Design |
 
 ## Early Procedure
 
